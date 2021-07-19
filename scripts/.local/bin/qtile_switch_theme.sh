@@ -1,0 +1,1 @@
+../../../qtile/.config/qtile/qtile_switch_theme.sh
